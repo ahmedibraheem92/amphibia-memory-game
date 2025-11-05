@@ -1,0 +1,44 @@
+.d-flex {
+    display: flex;
+}
+
+.d-flex-between {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 15px;
+}
+
+.m-auto {
+    margin: auto;
+}
+
+
+.fit-content {
+    width: fit-content;
+}
+
+.fs-1 {
+    font-size: .5em;
+}
+.fs-2 {
+    font-size: .7em;
+}
+.fs-3 {
+    font-size: .9em;
+}
+.fs-4 {
+    font-size: 1em;
+}
+.fs-5 {
+    font-size: 1.2em;
+}
+.fs-6 {
+    font-size: 1.4em;
+}
+.fs-7 {
+    font-size: 1.5em;
+}
+
+.fw-bold {
+    font-weight: bold;
+}
